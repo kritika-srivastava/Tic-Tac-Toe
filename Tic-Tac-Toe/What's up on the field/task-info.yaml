@@ -324,20 +324,5 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/projects/48/stages/257/implement
-status: Failed
-feedback:
-  message: |2
-
-    FAILURE: Build failed with an exception.
-
-    * What went wrong:
-    Could not initialize class org.codehaus.groovy.runtime.InvokerHelper
-
-    * Try:
-    Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.
-
-    * Get more help at https://help.gradle.org
-
-    BUILD FAILED in 54s
-  time: Sun, 02 Aug 2020 15:23:26 UTC
-record: -1
+status: Solved
+record: 3
