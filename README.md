@@ -7,4 +7,16 @@ The console based java application for one of the most famous games  : __tic-tac
 ![](demonstration.gif)
 &nbsp;
 
-Detailed Readme to be updated soon.Stay Tuned :-)
+The main file is [Main.java](https://github.com/kritika-srivastava/Tic-Tac-Toe/blob/master/Tic-Tac-Toe/task/src/tictactoe/Main.java).
+
+## Methods to replicate the output 
+
+- Clone this repository and run [Main.java](https://github.com/kritika-srivastava/Tic-Tac-Toe/blob/master/Tic-Tac-Toe/task/src/tictactoe/Main.java) file.The file should run without errors.
+
+- If you face any problem in above method just remove
+`
+package tictactoe;
+`
+from the top of [Main.java](https://github.com/kritika-srivastava/Tic-Tac-Toe/blob/master/Tic-Tac-Toe/task/src/tictactoe/Main.java) file and then run the code.
+
+
